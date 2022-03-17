@@ -1,2 +1,2 @@
 # exchange_rates
-We get exchange rates from the select.by site and save them to a .txt file.
+We get exchange rates (National Bank of the Republic of Belarus) from the site select.by and save them to a .txt file
